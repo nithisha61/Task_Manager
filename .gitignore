@@ -1,0 +1,15 @@
+﻿# Node
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Env & logs
+.env
+*.log
+
+# Build outputs
+dist/
+build/
+
+# Editor
+.vscode/
